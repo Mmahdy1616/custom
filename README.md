@@ -1,1 +1,1 @@
-vmess://eyJhZGQiOiJuaW1hLmxlZ2VuZGFyeWJvdC54eXoiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJtaS5pciIsImlkIjoiNTg5NmRjYmEtMTk0ZC00NDhkLWQ1OWItMmU4ODMwNzM3MzE5IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjYwMCIsInBzIjoiVGNwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+vless://cc4bd459-ee1f-4b1b-d0d9-2f0a89e2507c@45.95.241.206:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=kotela.ddrasoo.site#%F0%9F%9A%80mr-27
